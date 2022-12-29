@@ -341,6 +341,7 @@ form label, form legend {
         display: flex;
         flex-direction: row;
         color:hsl(0, 86%, 3%);
+        width: 0px;
         
     }
 
@@ -419,7 +420,7 @@ form label, form legend {
 
     .agenda-gratuita {
         background-image:url(./img/plano-de-fundo.jpg);
-        background-size: contain;
+        background-size: center;
         display: flex;
         text-align: center;
      
