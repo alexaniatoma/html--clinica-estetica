@@ -337,16 +337,7 @@ form label, form legend {
     
 
 @media (max-width:800px) {
-  
-
-    .wrapper {
-        width:100%;
-        background-image:none;
-        background-color:#fff;
-       
-    }
-
-    .menu-fixo {
+  .menu-fixo {
         display: flex;
         flex-direction: row;
         color:hsl(0, 86%, 3%);
